@@ -7,33 +7,34 @@ This repository contains an AI-powered trading bot designed for short-term price
 ### Short-term price prediction using the TimeMixer++ model  
 Enables accurate forecasting of market movements.
 
-![TimeMixer++ Example 1](./images/timemixer_example1.jpg)  
-![TimeMixer++ Example 2](./images/timemixer_example2.jpg)
+![TimeMixer++ 1](./images/timemixer1.png)  
+![TimeMixer++ 2](./images/timemixer2.png)
+![TimeMixer++ 3](./images/timemixer3.png)
 
 ---
 
 ### Pattern detection implemented with the YOLO (You Only Look Once) model  
 Identifies key chart patterns and signals.
-
-![YOLO Pattern Detection 1](./images/yolo_pattern1.jpg)  
-![YOLO Pattern Detection 2](./images/yolo_pattern2.jpg)
+The project uses two special YOLO models to find patterns in stock charts.
+-One model finds big chart shapes like cup-and-handle or double bottom.
+-The other finds small candlestick shapes like Marubozu or Morning Star.
+![candlestick_yolo_12x_1](./images/yolo1.png)  
+![candlestick_yolo_12x_2](./images/yolo2.png)  
+![pattern_yolo_12x_1](./images/yolo3.png)
+![pattern_yolo_12x_2](./images/yolo4.png)
 
 ---
 
 ### Customizable technical indicators  
 Tailored to user preferences for enhanced analysis.
 
-![Custom Indicator 1](./images/custom_indicator1.jpg)  
-![Custom Indicator 2](./images/custom_indicator2.jpg)
+🔐
 
 ---
 
 ### Integration of popular indicators such as RSI and MACD  
 Provides comprehensive market assessment.
 
-![RSI and MACD 1](./images/rsi_macd1.jpg)  
-![RSI and MACD 2](./images/rsi_macd2.jpg)
+![RSI and MACD](./images/rsi_macd.png)
 
----
-
-The combination of deep learning models and traditional indicators provides a robust framework for algorithmic trading strategies. This bot is suitable for traders and developers interested in AI-driven market analysis and automated trading systems.
+The combination of deep learning models and traditional indicators provides a robust framework for algorithmic trading strategies.
