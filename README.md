@@ -2,6 +2,11 @@
 
 This repository contains an AI-powered trading bot designed for short-term price prediction and pattern detection in financial markets. The bot leverages advanced machine learning models and technical indicators to assist in making informed trading decisions.
 
+![Demo GIF](./gif/DTDv2.1_backtest_7days.gif)
+![Demo GIF](./gif/DTDv2.1_backtest_15days.gif)
+![Demo GIF](./gif/DTDv2.1_backtest_30days.gif)
+![Demo GIF](./gif/DTDv2.1_backtest_90days.gif)
+
 ## Main Features
 
 ### Short-term price prediction using the TimeMixer++ model  
@@ -10,7 +15,6 @@ Enables accurate forecasting of market movements.
 ![TimeMixer++ 1](./images/timemixer1.png)  
 ![TimeMixer++ 2](./images/timemixer2.png)
 ![TimeMixer++ 3](./images/timemixer3.png)
-
 ---
 
 ### Pattern detection implemented with the YOLO (You Only Look Once) model  
