@@ -2,9 +2,11 @@
 
 This repository contains an AI-powered trading bot designed for short-term price prediction and pattern detection in financial markets. The bot leverages advanced machine learning models and technical indicators to assist in making informed trading decisions.
 
+### DTDv2.1_backtest_7days
 ![Demo GIF](./gif/DTDv2.1_backtest_7days.gif)
-![Demo GIF](./gif/DTDv2.1_backtest_15days.gif)
+### DTDv2.1_backtest_30days
 ![Demo GIF](./gif/DTDv2.1_backtest_30days.gif)
+### DTDv2.1_backtest_90days
 ![Demo GIF](./gif/DTDv2.1_backtest_90days.gif)
 
 ## Main Features
@@ -33,7 +35,7 @@ The project uses two special YOLO models to find patterns in stock charts.\
 ### Customizable technical indicators  
 Tailored to user preferences for enhanced analysis.
 
-🔐
+# 🔐
 
 ---
 
