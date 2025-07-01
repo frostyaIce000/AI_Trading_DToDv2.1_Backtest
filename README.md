@@ -22,11 +22,11 @@ Enables accurate forecasting of market movements.
 ### Pattern detection implemented with the YOLO (You Only Look Once) model  
 Identifies key chart patterns and signals.\
 The project uses two special YOLO models to find patterns in stock charts.\
--One model finds big chart shapes like cup-and-handle or double bottom.\
+-The other finds small candlestick shapes like Marubozu or Morning Star.\
 ![candlestick_yolo_12x_1](./images/yolo1.png)  
 ![candlestick_yolo_12x_2](./images/yolo2.png)
 
--The other finds small candlestick shapes like Marubozu or Morning Star.
+-One model finds big chart shapes like cup-and-handle or double bottom.\
 ![pattern_yolo_12x_1](./images/yolo3.png)
 ![pattern_yolo_12x_2](./images/yolo4.png)
 
