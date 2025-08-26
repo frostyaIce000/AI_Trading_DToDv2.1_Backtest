@@ -47,6 +47,5 @@ Provides comprehensive market assessment.
 The combination of deep learning models and traditional indicators provides a robust framework for algorithmic trading strategies.
 
 # Contact Info
-Email: airspeed.1e10@gmail.com \
-Phone: +639857613476 \
-Telegram: @airspeed_1e10
+Email: benreydiohenfilio.john916@gmail.com \
+Telegram: @johnbdfilio000
